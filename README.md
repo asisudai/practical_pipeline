@@ -1,2 +1,3 @@
-# practical_pipeline
-Code shared in http://pipeline.asimation.com
+# Practical Pipeline
+
+Repository meant to share code used in http://pipeline.asimation.com
